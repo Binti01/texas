@@ -1,3 +1,3 @@
 <?php
-$send="";// your email
+$send="";// allanreighert5@gmail.com
 ?>
